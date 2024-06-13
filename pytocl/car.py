@@ -1,6 +1,6 @@
 import logging
 import math
-from collections import Iterable
+from collections.abc import Iterable
 from functools import partialmethod
 
 _logger = logging.getLogger(__name__)
